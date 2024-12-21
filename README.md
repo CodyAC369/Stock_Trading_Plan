@@ -123,11 +123,12 @@ This feature simplifies stock tracking and aligns with the project's goal of pro
 ---
 
 ## Repository Link
-[GitHub Repository Link](https://github.com/your-repository-link)
+[https://github.com/CodyAC369/Stock_Trading_Plan](https://github.com/CodyAC369/Stock_Trading_Plan)
 
 ---
 
 ## Author
-Your Name  
-GitHub Profile: [Your GitHub Username](https://github.com/your-username)
+CodyAC369  
+GitHub Profile: [https://github.com/CodyAC369](https://github.com/CodyAC369)
+
 
